@@ -1,0 +1,10 @@
+G:\STUDY5_MEGA_LAST\Test2\Calculator\bin\Debug\Calculator.exe.config
+G:\STUDY5_MEGA_LAST\Test2\Calculator\bin\Debug\Calculator.exe
+G:\STUDY5_MEGA_LAST\Test2\Calculator\bin\Debug\Calculator.pdb
+G:\STUDY5_MEGA_LAST\Test2\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+G:\STUDY5_MEGA_LAST\Test2\Calculator\obj\Debug\Calculator.Form1.resources
+G:\STUDY5_MEGA_LAST\Test2\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\STUDY5_MEGA_LAST\Test2\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+G:\STUDY5_MEGA_LAST\Test2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+G:\STUDY5_MEGA_LAST\Test2\Calculator\obj\Debug\Calculator.exe
+G:\STUDY5_MEGA_LAST\Test2\Calculator\obj\Debug\Calculator.pdb
